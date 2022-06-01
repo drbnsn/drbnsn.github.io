@@ -229,6 +229,20 @@ ORDER BY number_of_rides ASC;
     -Week discount tier
     -Traditional membership tier (combines the promotions of the weekend and week tiers)
 
+•	Introduce a members-only power hour
+
+    -From 7 pm to 9 pm members can receive a discount for rides that begin within this time frame.
+    -Incentivizes casual riders to take advantage of another discount opportunity.
+    -This could help sustain high ride numbers after the mid day rush at 5 pm.
+    
+
+•	Conduct a survey to gain insight on the market of casual riders and their preferences.
+
+    -Have Casual riders answer 3 multiple choice questions.
+        1. How long is your commute to work? (miles)
+        2. For what purpose do you use Cyclistic? (leisure, work, or exercise)
+        3. How often do you use Cyslistic in a week? (1-2, 3-5, not a weekly user)
+
 •	Provide health metrics for riders
 
     -Mileage
@@ -236,11 +250,6 @@ ORDER BY number_of_rides ASC;
     -Heart Rate
     -Milestones to motivate riders to bike longer and farther.
 
-•	Conduct a survey to gain insight on the market of casual riders and their preferences.
-
-    -Have Casual riders answer 3 multiple choice questions.
-        1. How long is your commute to work? (miles)
-        2. For what purpose do you use Cyclistic? (leisure, work, or exercise)
-        3. How often do you use Cyslistic in a week? (1-2, 3-5, not a weekly user) 
+ 
 
   
